@@ -1,4 +1,4 @@
-# SEMS
+# SEMS- Smart Energy Management System
 This IoT-driven project is designed to optimize energy conservation, enhance operational efficiency, and improve safety within a model room setup. The system incorporates advanced technologies to create an intelligent environment that minimizes energy consumption while focusing on user convenience and safety. Through the integration of sensors and automation, the project ensures that devices operate only when needed, contributing to both energy savings and an efficient living space.
 
 At the heart of the system is an RFID card reader, which controls access to various appliances in the room. Only authorized users are allowed to activate or deactivate the devices, ensuring energy is not wasted when the room is unoccupied. When access is granted, the system uses a motion sensor to activate lights and fans, ensuring they only run when movement is detected in the room. This motion-triggered operation helps reduce unnecessary energy consumption, making the environment more sustainable.
